@@ -6,7 +6,7 @@ function generatePassword() {
     const includeSymbols = document.getElementById('symbols').checked;
 
     const uppercaseChars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-    const lowercaseChars = 'abcdefghijklmnopqrstuvwxyz';
+    const lowercaseChars = 'abcdefghijklmnopqrstuvwxyz'; 
     const numberChars = '0123456789';
     const symbolChars = '!@#$%^&*()_+-=[]{}|;:,.<>?';
 
