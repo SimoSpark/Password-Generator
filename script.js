@@ -41,5 +41,5 @@ function copyPassword() {
     }
 }
 
-// Generate initial password
+
 generatePassword();
